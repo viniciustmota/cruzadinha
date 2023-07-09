@@ -1,0 +1,10 @@
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\bin\Debug\Cruzadinha.exe.config
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\bin\Debug\Cruzadinha.exe
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\bin\Debug\Cruzadinha.pdb
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\obj\Debug\Cruzadinha.csprojAssemblyReference.cache
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\obj\Debug\Cruzadinha.Form1.resources
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\obj\Debug\Cruzadinha.Properties.Resources.resources
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\obj\Debug\Cruzadinha.csproj.GenerateResource.cache
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\obj\Debug\Cruzadinha.csproj.CoreCompileInputs.cache
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\obj\Debug\Cruzadinha.exe
+C:\Users\Fatec\Downloads\Cruzadinha\Cruzadinha\Cruzadinha\obj\Debug\Cruzadinha.pdb
